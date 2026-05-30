@@ -4,7 +4,7 @@ export default function Contact() {
   // 🌐 CHANGE THIS LINK TO YOUR LIVE BACKEND SERVER ADDRESS:
   // For LocalTunnel use: "https://your-tunnel-id.localtunnel.me"
   // For Render use: "https://astro-backend.onrender.com"
- const BACKEND_API_URL = "https://funny-suns-glow.loca.lt";
+const BACKEND_API_URL = "https://e18d1fe5b57b6311-152-59-166-174.serveousercontent.com";
   const WHATSAPP_NUMBER = "918535879134"; 
   const INSTAGRAM_HANDLE = "astrosouvik_official"; 
   const FACEBOOK_HANDLE = "astrosouvik.astrology"; 
